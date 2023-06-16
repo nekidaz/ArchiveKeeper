@@ -1,7 +1,5 @@
 # ArchiveKeeper
 
-File Archiver
-
 ## Description
 
 The File Archiver project is a simple web application written in Go that allows users to upload files, archive them into a ZIP file, and download the generated archive. It utilizes the Gin web framework and the archiver library for file handling and archiving operations.
@@ -34,6 +32,4 @@ The File Archiver project is a simple web application written in Go that allows 
 
 5. Download archives: Once the archiving process is complete, a download link will appear. Click the link to download the generated ZIP archive containing the uploaded files.
 
-## Contributing
 
-Contributions to the File Archiver project are welcome. If you encounter any issues or have suggestions for improvements, please submit an issue or a pull request on the project repository.
